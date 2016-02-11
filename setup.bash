@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#written by konlab
+#written by konolab
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
